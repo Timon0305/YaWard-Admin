@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df5da53b.chunk.css",
+    "main.js": "/static/js/main.e9b86b30.chunk.js",
+    "main.js.map": "/static/js/main.e9b86b30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.009a96a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.009a96a8.js.map",
+    "static/css/2.27efe2fd.chunk.css": "/static/css/2.27efe2fd.chunk.css",
+    "static/js/2.385b8f6b.chunk.js": "/static/js/2.385b8f6b.chunk.js",
+    "static/js/2.385b8f6b.chunk.js.map": "/static/js/2.385b8f6b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4f34573078328ea9e3f89fde26813cee.js": "/precache-manifest.4f34573078328ea9e3f89fde26813cee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.27efe2fd.chunk.css.map": "/static/css/2.27efe2fd.chunk.css.map",
+    "static/css/main.df5da53b.chunk.css.map": "/static/css/main.df5da53b.chunk.css.map",
+    "static/js/2.385b8f6b.chunk.js.LICENSE.txt": "/static/js/2.385b8f6b.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.jpg": "/static/media/avatar-1.67e2b9d7.jpg",
+    "static/media/avatar-2.jpg": "/static/media/avatar-2.02aea0c2.jpg",
+    "static/media/avatar-3.jpg": "/static/media/avatar-3.41a180f3.jpg",
+    "static/media/avatar-4.jpg": "/static/media/avatar-4.e0ab315a.jpg",
+    "static/media/theme.scss": "/static/media/materialdesignicons-webfont.fe1545ef.ttf",
+    "static/media/img-4.png": "/static/media/img-4.13652570.png",
+    "static/media/img-6.png": "/static/media/img-6.7821ebc7.png",
+    "static/media/img-7.png": "/static/media/img-7.5f29a91e.png",
+    "static/media/layout-1.jpg": "/static/media/layout-1.a4629b63.jpg",
+    "static/media/layout-2.jpg": "/static/media/layout-2.5afd4b42.jpg",
+    "static/media/layout-3.jpg": "/static/media/layout-3.06b3c203.jpg",
+    "static/media/logo-light.svg": "/static/media/logo-light.202a69fb.svg",
+    "static/media/logo.svg": "/static/media/logo.4dbbacd2.svg",
+    "static/media/megamenu-img.png": "/static/media/megamenu-img.913183e4.png",
+    "static/media/profile-img.png": "/static/media/profile-img.ba4e037e.png",
+    "static/media/yaward_logo.svg": "/static/media/yaward_logo.ce3344a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009a96a8.js",
+    "static/css/2.27efe2fd.chunk.css",
+    "static/js/2.385b8f6b.chunk.js",
+    "static/css/main.df5da53b.chunk.css",
+    "static/js/main.e9b86b30.chunk.js"
+  ]
+}
