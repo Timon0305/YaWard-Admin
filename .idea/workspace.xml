@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8abe2fd-c7e7-4c7c-8a32-07522cbbc2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/pages/Checkout/Checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/pages/Checkout/MyCart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/pages/Checkout/checkout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/store/product/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/store/product/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3.customer/src/store/product/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.backend/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.backend/routes/customer/checkoutController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.admin.zip" beforeDir="false" afterPath="$PROJECT_DIR$/1.admin.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.vendor/2.vendor.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../2.vendor/2.vendor.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/3.customer.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/3.customer.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/app-dark.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/app-dark.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/app-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/app-rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/app-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/app-rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/app.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/bootstrap-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/bootstrap-dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/customer/cycle-flower.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/customer/cycle-flower.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/assets/scss/custom/structure/_topbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/assets/scss/custom/structure/_topbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/CartMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/CartMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/NotificationDropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/NotificationDropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/ProfileMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/components/CommonForBoth/TopbarDropdown/ProfileMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/components/HorizontalLayout/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/components/HorizontalLayout/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/locales/en/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Authentication/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Authentication/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Authentication/Verify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Authentication/Verify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Main/Occasions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Main/Occasions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Main/ShopList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Main/ShopList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Main/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Profile/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Profile/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Profile/profile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Shops/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Shops/Cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Shops/ProductsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Shops/ProductsList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/pages/Shops/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/pages/Shops/product.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/store/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/store/product/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.customer/src/store/reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3.customer/src/store/reducers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.backend/4.backend.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../4.backend/4.backend.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.backend/routes/customer/profileController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4.backend/routes/customer/profileController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.backend/routes/customer/shopController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4.backend/routes/customer/shopController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4.backend/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -149,7 +102,7 @@
     <session id="-1253653625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="5" />
@@ -157,13 +110,13 @@
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -250,7 +203,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CommonForBoth/TopbarDropdown/LanguageDropdown.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="2024">
               <caret line="103" column="29" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="29" />
               <folding>
                 <element signature="e#141#174#0" expanded="true" />
@@ -263,7 +216,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Product/ProductList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="2112">
               <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
             </state>
           </provider>
@@ -346,7 +299,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -498,7 +451,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Register.js&#9;FILE&#9;file://F:/MyExercise/React/Yalla-Ward/YaWard/admin/src/pages/Authentication/Register.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../React-Native/baden/Baden_Admin_Frontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -609,16 +562,18 @@
       <workItem from="1601688629225" duration="807000" />
       <workItem from="1601781733768" duration="2774000" />
       <workItem from="1608954951308" duration="638000" />
+      <workItem from="1614062101439" duration="615000" />
+      <workItem from="1616560263816" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531689000" />
+    <option name="totallyTimeSpent" value="532561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17451084" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17451084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -632,7 +587,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3306544" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3306544" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -954,6 +909,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CommonForBoth/TopbarDropdown/LanguageDropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="103" column="29" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="29" />
+          <folding>
+            <element signature="e#141#174#0" expanded="true" />
+            <element signature="e#233#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Product/ProductList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/HorizontalLayout/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
@@ -967,24 +940,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CommonForBoth/TopbarDropdown/LanguageDropdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="103" column="29" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="29" />
-          <folding>
-            <element signature="e#141#174#0" expanded="true" />
-            <element signature="e#233#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Product/ProductList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
         </state>
       </provider>
     </entry>
